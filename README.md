@@ -1,5 +1,5 @@
 # Meshy
- 
+
 A Python framework for managing timelines, agents, and reality conflicts in complex systems.
 
 ## Overview
