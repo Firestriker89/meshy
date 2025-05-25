@@ -1,0 +1,43 @@
+# Core functionality
+numpy
+pandas
+python-dateutil
+
+# Optional visualization
+plotly  # Enables future 3D timeline visualizations
+dash
+dash-bootstrap-components
+
+# Development tools
+pytest
+pytest-cov
+black
+pylint
+mypy
+
+# Future options (uncomment as needed):
+
+# For advanced visualization
+# matplotlib
+# networkx
+
+# For web simulation frontend
+# flask
+# fastapi
+# uvicorn
+
+# For state persistence
+# sqlalchemy
+# alembic
+
+# For config management
+# pydantic
+# python-dotenv
+
+# For logging and telemetry
+# structlog
+# prometheus-client
+
+# For async simulation engine
+# asyncio
+# aiofiles
